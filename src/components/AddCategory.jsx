@@ -31,5 +31,3 @@ export const AddCategory = ({ onNewCategory }) => {
   );
 };
 
-//!  se usa rafc para abrir esta funcion  //
-//! se usa eseS para abrir una funcion
